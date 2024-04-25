@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6287762379809','6287762379809','6287762379809'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6287762379809'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6287762379809' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'gilangR' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'nekoSEA-bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'glngryn' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
+global.youtube = 'https://youtube.com/channel/UCdXczHeCgEg5UW1jwkarUZw'
+global.ig = 'https://www.instagram.com/glng_leng?igsh=bWM2c2ltd2h1ZWtz'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'gilangryanp56@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© nekoSEA-bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'glngryn' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -89,7 +89,7 @@ owner: '_Fitur Khusus Owner Bot_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
+wait: '_Sedang Di Proses, ditunggu yaa..._',
 error: '_Fitur Sedang Error!_',
 endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
 }
